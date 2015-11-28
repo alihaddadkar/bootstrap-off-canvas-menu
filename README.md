@@ -2,7 +2,7 @@
 Bootstrap Offcanvas is a jQuery plugin that converts default Bootstrap navbar component into an user-friendly off-canvas side menu in mobile views.
 
 ## Demo
-[view demo](http://codepen.io/ali_haddadkar/pen/MaMmKY)
+[view demo](http://codepen.io/ali_haddadkar/full/MaMmKY/)
 
 
 ## Getting Started

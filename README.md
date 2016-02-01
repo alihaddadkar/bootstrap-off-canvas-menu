@@ -73,6 +73,3 @@ Bootstrap Offcanvas is a jQuery plugin that converts default Bootstrap navbar co
   </div>
 </nav>
 ```
-
-## License
-The MIT License (MIT)
